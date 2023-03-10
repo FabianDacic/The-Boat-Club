@@ -1,4 +1,4 @@
-# <ins>A2</ins>
+# <ins>The Boat Club application</ins>
 
 By: Atakan Osman Coban, Fabian Dacic, Yuyao Duan and Fredric Eriksson Sepulveda
 
